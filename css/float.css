@@ -1,0 +1,62 @@
+.main {
+    height: 800px;
+    width: 1300px;
+    background-color: aqua;
+    margin-top: 50px;
+    margin-left: 350px;
+}
+
+.header {
+    height: 200px;
+    width: 1300px;
+    background-color: blanchedalmond;
+
+}
+
+.image {
+    height: 200px;
+    width: 300px;
+    background-color: #3cff00;
+    float: left;
+}
+
+.logo {
+    height: 100px;
+    width: 1000px;
+    background-color: rgb(247, 159, 174);
+    float: left;
+}
+
+.navbar {
+    height: 100px;
+    width: 1000px;
+    background-color: rgb(228, 194, 194);
+    float: left;
+
+}
+
+.navbar ul li {
+    display: inline;
+    margin: 20px;
+    font-size: 20px;
+    background-color: transparent;
+    padding: 10px;
+   
+}
+.navbar ul li :hover {
+    color: red;
+    transition: 0.3s;
+}
+
+
+.container {
+    height: 550px;
+    width: 1300px;
+    background-color: rgb(255, 96, 176);
+}
+
+.footer {
+    height: 50px;
+    width: 1300px;
+    background-color: rgb(73, 157, 226);
+}

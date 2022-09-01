@@ -1,0 +1,324 @@
+#main{
+    height: 400px;
+    width: 1000px;;
+    background-color: aquamarine;
+    margin-top: 200px;
+    border: 3px solid red;
+    border-radius: 400px 1px 50px 00px;
+}
+.p{
+    color: black;
+    margin-left: 400px;
+   font-size: 20px;
+    font-style: italic;
+}
+.a1 {
+    height: 50px;
+    width: 50px;
+    background-color: greenyellow;
+    border: 2px solid red;
+    position: absolute;
+    top: 500px;
+    left: 400px;
+
+
+}
+
+.a2 {
+    height: 50px;
+    width: 50px;
+    background-color: greenyellow;
+    border: 2px solid red;
+    position: absolute;
+    top: 470px;
+    left: 410px;
+
+}
+
+.a3 {
+    height: 50px;
+    width: 50px;
+    background-color: greenyellow;
+    border: 2px solid red;
+    position: absolute;
+    top: 440px;
+    left: 425px;
+
+}
+
+.a4 {
+    height: 50px;
+    width: 50px;
+    background-color: greenyellow;
+    border: 2px solid red;
+    position: absolute;
+    top: 410px;
+    left: 440px;
+
+}
+
+.a5 {
+    height: 50px;
+    width: 50px;
+    background-color: greenyellow;
+    border: 2px solid red;
+    position: absolute;
+    top: 390px;
+    left: 460px;
+
+}
+.a6 {
+    height: 50px;
+    width: 50px;
+    background-color: greenyellow;
+    border: 2px solid red;
+    position: absolute;
+    top: 360px;
+    left: 480px;
+
+}.a7 {
+    height: 50px;
+    width: 50px;
+    background-color: greenyellow;
+    border: 2px solid red;
+    position: absolute;
+    top: 330px;
+    left: 500px;
+
+}.a8 {
+    height: 50px;
+    width: 50px;
+    background-color: greenyellow;
+    border: 2px solid red;
+    position: absolute;
+    top: 300px;
+    left: 520px;
+
+}.a9 {
+    height: 50px;
+    width: 50px;
+    background-color: greenyellow;
+    border: 2px solid red;
+    position: absolute;
+    top: 270px;
+    left: 540px;
+
+}
+.a10 {
+    height: 50px;
+    width: 50px;
+    background-color: greenyellow;
+    border: 2px solid red;
+    position: absolute;
+    top: 260px;
+    left: 560px;
+
+}
+.a11 {
+    height: 50px;
+    width: 50px;
+    background-color: greenyellow;
+    border: 2px solid red;
+    position: absolute;
+    top: 255px;
+    left: 580px;
+
+}
+.a12 {
+    height: 50px;
+    width: 50px;
+    background-color: greenyellow;
+    border: 2px solid red;
+    position: absolute;
+    top: 255px;
+    left: 600px;
+
+}
+.a13 {
+    height: 50px;
+    width: 50px;
+    background-color: greenyellow;
+    border: 2px solid red;
+    position: absolute;
+    top: 255px;
+    left: 600px;
+
+}
+.a14 {
+    height: 50px;
+    width: 50px;
+    background-color: greenyellow;
+    border: 2px solid red;
+    position: absolute;
+    top: 255px;
+    left: 620px;
+
+}
+.a15{
+    height: 50px;
+    width: 50px;
+    background-color: greenyellow;
+    border: 2px solid red;
+    position: absolute;
+    top: 280px;
+    left: 630px;
+
+}
+.a16{
+    height: 50px;
+    width: 50px;
+    background-color: greenyellow;
+    border: 2px solid red;
+    position: absolute;
+    top: 310px;
+    left: 640px;
+
+}
+.a17{
+    height: 50px;
+    width: 50px;
+    background-color: greenyellow;
+    border: 2px solid red;
+    position: absolute;
+    top: 340px;
+    left: 640px;
+
+}
+.a18{
+    height: 50px;
+    width: 50px;
+    background-color: greenyellow;
+    border: 2px solid red;
+    position: absolute;
+    top: 360px;
+    left: 640px;
+
+}
+.a19{
+    height: 50px;
+    width: 50px;
+    background-color: greenyellow;
+    border: 2px solid red;
+    position: absolute;
+    top: 380px;
+    left: 640px;
+
+}
+.a20{
+    height: 50px;
+    width: 50px;
+    background-color: greenyellow;
+    border: 2px solid red;
+    position: absolute;
+    top: 400px;
+    left: 640px;
+
+}
+.a21{
+    height: 50px;
+    width: 50px;
+    background-color: greenyellow;
+    border: 2px solid red;
+    position: absolute;
+    top: 420px;
+    left: 640px;
+
+}
+.a22{
+    height: 50px;
+    width: 50px;
+    background-color: greenyellow;
+    border: 2px solid red;
+    position: absolute;
+    top: 440px;
+    left: 640px;
+
+}
+.a23{
+    height: 50px;
+    width: 50px;
+    background-color: greenyellow;
+    border: 2px solid red;
+    position: absolute;
+    top: 460px;
+    left: 640px;
+
+}
+.a24{
+    height: 50px;
+    width: 50px;
+    background-color: greenyellow;
+    border: 2px solid red;
+    position: absolute;
+    top: 480px;
+    left: 640px;
+
+}
+.a25{
+    height: 50px;
+    width: 50px;
+    background-color: greenyellow;
+    border: 2px solid red;
+    position: absolute;
+    top: 500px;
+    left: 640px;
+
+}
+.a26{
+    height: 50px;
+    width: 50px;
+    background-color: greenyellow;
+    border: 2px solid red;
+    position: absolute;
+    top: 400px;
+    left: 500px;
+
+}
+.a27{
+    height: 50px;
+    width: 50px;
+    background-color: greenyellow;
+    border: 2px solid red;
+    position: absolute;
+    top: 400px;
+    left: 520px;
+
+}
+.a28{
+    height: 50px;
+    width: 50px;
+    background-color: greenyellow;
+    border: 2px solid red;
+    position: absolute;
+    top: 400px;
+    left: 540px;
+
+}
+.a29{
+    height: 50px;
+    width: 50px;
+    background-color: greenyellow;
+    border: 2px solid red;
+    position: absolute;
+    top: 400px;
+    left: 560px;
+}
+.a30{
+    height: 50px;
+    width: 50px;
+    background-color: greenyellow;
+    border: 2px solid red;
+    position: absolute;
+    top: 400px;
+    left: 580px;
+}
+.a31{
+    height: 50px;
+    width: 50px;
+    background-color: greenyellow;
+    border: 2px solid red;
+    position: absolute;
+    top: 400px;
+    left: 600px;
+}
+

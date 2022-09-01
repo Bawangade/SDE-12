@@ -1,0 +1,71 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    width: 1350px;
+    height: 600px;
+    background-image:url(Images/laptop.jpg);
+
+}
+.first{
+    position: absolute;
+    height: 250px;
+    width: 350px;
+    background-color: azure;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.first h2 {
+    color: rgb(243, 137, 155);
+    text-align: center;      
+}
+.box{
+    text-align: center;
+}
+button{
+    height: 30px;
+    width: 60px;
+    background-color: aqua;
+}
+ul li{
+    position: relative;
+    left: 800px;
+    top: 20px;
+    float: left;
+    display: block;
+    font-size: x-large;
+    margin: 10px;
+    
+}
+ul li :hover{
+    color: red;
+}
+.text1{
+    color: white;
+    position: relative;
+    top: 140px;
+    left: 30px;
+    font-size: large;
+}
+.text2{
+    color: red;
+    position: relative;
+    top: 160px;
+    left: 30px;
+    font-size: larger;
+    text-align: center;
+}
+.btn{
+    height: 50px;
+    width: 150px;
+    position: relative;
+    top: 180px;
+    left: 150px;
+    background-color: yellow;
+    border-radius: 90px;
+}
+.btn:hover{
+    background-color: green;
+    transition: 0.3s;
+}

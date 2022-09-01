@@ -1,0 +1,26 @@
+@font-face {
+    font-family:second;
+    src: url(/Kruti-Dev-013.ttf);
+}
+.aa {
+
+    height: 400px;
+    width: 400px;
+    background-color: pink;
+    margin: auto;
+    font-family: second;
+    src: url(/Kruti-Dev-013.ttf);
+}
+
+h2
+{
+    text-align: center;
+}
+.ab
+{
+    color: aqua;
+}
+.ac
+{
+    color: blue;
+}

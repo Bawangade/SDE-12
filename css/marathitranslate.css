@@ -1,0 +1,28 @@
+h2 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.aa {
+
+    height: 400px;
+    width: 400px;
+    background-color: pink;
+    margin: auto;
+}
+
+.p1 {
+    font-size: large;
+    font-style: italic;
+}
+
+.p2 {
+    color: aqua;
+    font-style: italic;
+}
+
+.p3 {
+    color: blue;
+    font-style: italic;
+
+}

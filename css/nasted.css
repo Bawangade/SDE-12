@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    height: 600px;
+    width: 1350px;
+    background-color: aqua;
+}
+.header{
+    height: 50px;
+    width: 1350px;
+    background-color: aquamarine;
+}
+.logo{
+    height: 50px;
+    width: 100px;
+    background-color: yellow;
+    text-align: center;
+    line-height: 40px;
+    float: left;
+}
+.navbar{
+    float:left;
+    position: relative;
+    left: 750px;   
+    line-height: 40px;
+}
+ul li{
+    float: left;
+    height: 40px;
+    width: 100px;  
+    background-color: yellow;
+    list-style: none;  
+    border: 2px solid black;
+    text-align: center;
+}
+ul li:hover{
+    background-color: brown;
+}
+ul li>ul li{
+    display: none;
+}
+ul li:hover>ul li{
+    display: block;
+}
